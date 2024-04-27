@@ -11,5 +11,5 @@ Esse repositório foi feito com base no desafio sugerido no curso Fundamentos de
 ## :thought_balloon: Prompts
 
 título: Faça um título para um ebook com foco em UX. ele deve ser interessante e impactante
-conteúdo: Faça um texto para o eBook de acordo com o título. Detalhe o conteúdo o máximo que puder
-conclusão: Crie uma conclusão completa para este eBook 
+<br>conteúdo: Faça um texto para o eBook de acordo com o título. Detalhe o conteúdo o máximo que puder
+<br>conclusão: Crie uma conclusão completa para este eBook 
